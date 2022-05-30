@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2b7826da-ad9e-4993-8c80-697e4a5621b9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/../../../LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/KochavaTrackerPlugin.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../android/KochavaTrackerPlugin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../android/kochava.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KochavaTrackerPlugin.h" beforeDir="false" afterPath="$PROJECT_DIR$/../KochavaTrackerPlugin.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KochavaTrackerPlugin.m" beforeDir="false" afterPath="$PROJECT_DIR$/../KochavaTrackerPlugin.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../www/KochavaAttributionNotification.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../www/KochavaTracker.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../www/KochavaTracker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../TestApp/build.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../TestApp/build.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../TestApp/keys/build.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../TestApp/keys/build.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../TestApp/keys/release-signing.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../TestApp/www/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../TestApp/www/css/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../TestApp/www/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../TestApp/www/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../TestApp/www/js/event_actions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../TestApp/www/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../TestApp/www/js/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../VERSION.ini" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../VERSION.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../copyDependencies.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../copyDependencies.sh" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
+  </component>
+  <component name="ProjectId" id="1rqhKc09acut8zrqBnXh4n14RD1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2b7826da-ad9e-4993-8c80-697e4a5621b9" name="Default Changelist" comment="" />
+      <created>1619709465961</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619709465961</updated>
+    </task>
+    <servers />
+  </component>
+</project>
